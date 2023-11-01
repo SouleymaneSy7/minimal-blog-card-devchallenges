@@ -14,7 +14,7 @@ This is a solution to the [Minimal Blog Card Challenge on devchallenges.io](http
 
 ### Desktop
 
-![Desktop Screenshot](./preview/preview.png)
+![Desktop Screenshot](./preview/Preview.png)
 
 ## Built With
 
@@ -25,8 +25,8 @@ This is a solution to the [Minimal Blog Card Challenge on devchallenges.io](http
 
 ## Links
 
-- Solution Links: [Solution Links here](https://solution-links-url.com)
-- Demo Links: [Demo Links here](https://demo-links-url.com)
+- Demo Links: [minimal-blog-card-devchallenges.vercel.app](https://minimal-blog-card-devchallenges.vercel.app/)
+- Solution Links: [devchallenges.io/solution/1790](https://devchallenges.io/solution/1790)
 
 ## Author
 
